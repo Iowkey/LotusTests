@@ -1,0 +1,7 @@
+C:\Users\nazar\source\repos\worktest\worktest\obj\Debug\worktest.csprojAssemblyReference.cache
+C:\Users\nazar\source\repos\worktest\worktest\obj\Debug\worktest.csproj.CoreCompileInputs.cache
+C:\Users\nazar\source\repos\worktest\worktest\bin\Debug\worktest.exe.config
+C:\Users\nazar\source\repos\worktest\worktest\bin\Debug\worktest.exe
+C:\Users\nazar\source\repos\worktest\worktest\bin\Debug\worktest.pdb
+C:\Users\nazar\source\repos\worktest\worktest\obj\Debug\worktest.exe
+C:\Users\nazar\source\repos\worktest\worktest\obj\Debug\worktest.pdb
